@@ -1,0 +1,49 @@
+h1{
+    color: red;
+}
+
+h2{
+    font-style: italic;
+    color: tomato;
+}
+
+.con{
+    line-height: 50px;
+    color: brown;
+}
+
+.lt{
+    text-decoration: line-through;
+    font-weight: bold;
+}
+
+.bg{
+    background-color: yellow;
+    font-weight: bold;
+}
+
+.italics{
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.ul{
+    letter-spacing: 7px;
+    color: brown;
+}
+
+#b1{
+    font-weight: bold;
+    background-color: yellow;
+}
+
+.par{
+    color: rgb(158, 73, 23);
+}
+
+a{
+    background-color: yellow;
+    font-style: italic;
+    color: red;
+    text-decoration: none;
+}
